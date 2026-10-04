@@ -4,13 +4,6 @@
 
 ### I build small systems, useful tools, and experiments that teach me something.
 
-<a href="https://github.com/nachiket203">
-	<img src="https://img.shields.io/github/followers/nachiket203?label=Follow&style=flat-square&color=181717" alt="GitHub followers" />
-</a>
-<a href="https://github.com/nachiket203?tab=repositories">
-	<img src="https://img.shields.io/badge/Projects-view%20repositories-2f80ed?style=flat-square" alt="View repositories" />
-</a>
-
 </div>
 
 ## What I like building
@@ -92,13 +85,3 @@ Currently making  tools that are small enough to understand and useful enough to
 Default approach  build it, inspect it, then make the architecture less mysterious
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nachiket203&show_icons=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=444444&bg_color=ffffff" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiket203&layout=compact&hide_border=true&title_color=2f80ed&text_color=444444&bg_color=ffffff" height="165" alt="Most used languages" />
-
-<br />
-
-<a href="https://github.com/nachiket203?tab=repositories">Explore the rest of my repositories -&gt;</a>
-
-</div>
