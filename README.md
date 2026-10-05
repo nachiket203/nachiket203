@@ -10,9 +10,9 @@
 
 I enjoy working across the whole shape of a project: turning an idea into an API, giving it a clean data model, making a useful interface, and learning what breaks when the pieces meet.
 
-My main projects are **Aracna**, **LeTierBoxd**, and **Riva**. The rest are smaller experiments, games, and creative builds.
+My main projects are **Aracna**, **LeTierBoxd**, **Riva**, and a BookMyShow seat monitor that keeps a Telegram dashboard up to date. The rest are smaller experiments, games, and creative builds.
 
-## Main Projects
+## Selected Projects
 
 <table>
 <tr>
@@ -59,9 +59,26 @@ A smaller codebase, but part of the same interest in understanding systems from 
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### [BMS Telegram Monitor](https://github.com/nachiket203/bms_telegram_monitor)
+
+<p>A Python monitor that tracks BookMyShow showtimes, seat availability, and category-wise pricing, then keeps a Telegram dashboard updated.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+Live seat monitoring, meaningful-change alerts, pinned dashboards, and scheduled automation.
+
+</td>
+</tr>
 </table>
 
-## For Fun
+## Other Builds & Experiments
 
 | Project | What it is |
 | --- | --- |
@@ -69,11 +86,13 @@ A smaller codebase, but part of the same interest in understanding systems from 
 | [Days-Since](https://github.com/nachiket203/Days-Since) | A small JavaScript tool for tracking time since an event. |
 | [Fireworks](https://github.com/nachiket203/fireworks) | A p5.js experiment for making fireworks in the browser. |
 
-## Tools I Reach For
+## Tools I Use
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=go,python,js,react,fastapi,postgres,git,vite&theme=light" alt="Go, Python, JavaScript, React, FastAPI, PostgreSQL, Git, and Vite" />
+
+<p>Go | Python | JavaScript | React | FastAPI | PostgreSQL | Git | Vite</p>
 
 </div>
 
