@@ -2,105 +2,110 @@
 
 # Nachiket Mahalle
 
-### I build small systems, useful tools, and experiments that teach me something.
+### I make things I want/need, and things I'm curious about.
+
+<img src="https://skillicons.dev/icons?i=go,python,c,js,react,fastapi,postgres,processing,git,vite&theme=dark" height="25" />
 
 </div>
 
-## What I like building
+---
 
-I enjoy working across the whole shape of a project: turning an idea into an API, giving it a clean data model, making a useful interface, and learning what breaks when the pieces meet.
+I like building stuff I find interesting, from APIs and data models to interfaces, automation, and whatever weird problem I happen to be fascinated by.
 
-My main projects are **Aracna**, **LeTierBoxd**, **Riva**, and a BookMyShow seat monitor that keeps a Telegram dashboard up to date. The rest are smaller experiments, games, and creative builds.
+Some projects are things I wanted to exist. Some started because I needed them. Some exist because I wondered **“could I build this?”**
 
-## Selected Projects
+## Things I've built
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### [Aracna](https://github.com/nachiket203/Aracna)
 
-<p>A compact, self-hosted log collector written in Go.</p>
+A compact, self-hosted **log collector written in Go**.
 
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/WebSockets-live%20streaming-111827?style=flat-square" alt="WebSockets" />
-</p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-live-111827?style=flat-square" />
 
 HTTP ingestion, append-only JSONL storage, filtering, runtime metrics, and a live browser dashboard.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### [LeTierBoxd](https://github.com/nachiket203/LeTierBoxd)
 
-<p>A full-stack film tier-listing app built around Letterboxd data.</p>
+A **film tier-listing app** built around Letterboxd data.
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
-Import parsing, TMDb enrichment, streaming responses, drag-and-drop ranking, sharing, and community recommendations.
+Letterboxd imports, TMDb enrichment, streaming responses, drag-and-drop rankings, sharing, and recommendations.
 
 </td>
+
 <td width="33%" valign="top">
 
 ### [Riva](https://github.com/nachiket203/Riva)
 
-<p>A Go project for exploring backend systems and service design.</p>
+A **Redis-inspired in-memory database** written in Go.
 
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/MIT-licensed-2ea44f?style=flat-square" alt="MIT licensed" />
-</p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP-server-111827?style=flat-square" />
 
-A smaller codebase, but part of the same interest in understanding systems from the inside out.
+Commands, TTLs, concurrency, and a TCP server — built to understand what happens underneath a simple key-value store.
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="33%" valign="top">
 
 ### [BMS Telegram Monitor](https://github.com/nachiket203/bms_telegram_monitor)
 
-<p>A Python monitor that tracks BookMyShow showtimes, seat availability, and category-wise pricing, then keeps a Telegram dashboard updated.</p>
+A **BookMyShow monitor** that keeps a Telegram dashboard updated.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
-Live seat monitoring, meaningful-change alerts, pinned dashboards, and scheduled automation.
+Tracks shows, seat availability, and category-wise pricing, then updates the dashboard when something changes.
 
 </td>
+
 </tr>
 </table>
 
-## Other Builds & Experiments
+## Other stuff
 
-| Project | What it is |
+Smaller projects, experiments, and things I built just because I felt like it.
+
+| Project | |
 | --- | --- |
-| [Tic-Tac-Go](https://github.com/nachiket203/Tic-Tac-Go-Backend) | A Tic-Tac-Toe project with a Python backend and JavaScript frontend. |
-| [Days-Since](https://github.com/nachiket203/Days-Since) | A small JavaScript tool for tracking time since an event. |
-| [Fireworks](https://github.com/nachiket203/fireworks) | A p5.js experiment for making fireworks in the browser. |
+| [Tic-Tac-Go](https://github.com/nachiket203/Tic-Tac-Go-Backend) | Tic-Tac-Toe with a twist, the 2nd last move disappears! |
+| [Days-Since](https://github.com/nachiket203/Days-Since) | A tiny tool for keeping track of time since an event. |
+| [Fireworks](https://github.com/nachiket203/fireworks) | A p5.js experiment for making fireworks in the browser.[TRY IT ;)](https://nachiket203.github.io/fireworks/) |
 
-## Tools I Use
+## Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,js,react,fastapi,postgres,git,vite&theme=light" alt="Go, Python, JavaScript, React, FastAPI, PostgreSQL, Git, and Vite" />
+<img src="https://skillicons.dev/icons?i=go" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=processing" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="40" />
 
-<p>Go | Python | JavaScript | React | FastAPI | PostgreSQL | Git | Vite</p>
+<br>
+
+<sub>C · Go · Python · JavaScript · React · FastAPI · PostgreSQL · Processing · Git · Vite</sub>
 
 </div>
-
-## A little more
-
-```text
-Interested in     backend systems, full-stack apps, APIs, data, and creative coding
-Currently making  tools that are small enough to understand and useful enough to keep
-Default approach  build it, inspect it, then make the architecture less mysterious
-```
-
